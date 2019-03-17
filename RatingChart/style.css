@@ -1,0 +1,6 @@
+/* CSS */
+.selected{
+	background-color: #52cc52;
+    color: #fff;
+    border-bottom: 1px solid #baebba;
+}
