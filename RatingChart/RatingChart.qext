@@ -1,15 +1,15 @@
 {
-	"name": "RatingChartV1",
-	"description": "Basic 5 Star Rating Extension",
+	"name": "RatingChart",
+	"description": "Star Rating Extension",
 	"type": "visualization",
 	"version": "1.0.0",
-	"icon": "bar-chart-vertical",
-	"author": "Clay Logix",
-	"homepage": "http://claylogix.com/",
+	"icon": "extension",
+	"author": "Ajay Kakkar",
+	"homepage": "",
 	"keywords": "qlik-sense, visualization, rating, star",
-	"license": "Clay Logix",
-	"repository": "Clay Logix",
+	"license": "",
+	"repository": "",
 	"dependencies": {
-		"qlik-sense": ">=2.1.x"
+		"qlik-sense": ">=3.0.x"
 	}
 }
